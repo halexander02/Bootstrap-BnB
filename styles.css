@@ -1,1 +1,36 @@
 @charset "utf-8";
+
+h1{
+    text-align: center;
+    background-color: #D2B48C;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.carousel{
+    margin: 0 auto;
+    height: 40%;
+    width: 40%;
+}
+
+#pic1, #pic2, #pic3{
+    height: 400px;
+}
+
+.card{
+    margin: auto;
+    margin-top: 10px;
+}
+
+#card1, #card2, #card3{
+    height: 200px;
+}
+
+footer{
+    text-align: center;
+    margin-top: 5px;
+    background-color: #D2B48C;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    font-weight: bold;
+}
